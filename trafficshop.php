@@ -1,5 +1,5 @@
 <?
-// Fetch datas on TrafficShop and send the datas to AdServer API, only for desktop
+// Fetch datas on TrafficShop and send the datas to AdServer API, only for desktop PC.
 require('countries.php');
 
 set_time_limit(0);
